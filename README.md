@@ -47,9 +47,9 @@ You can install the required dependencies by running the following command:
 pip install -r requirements.txt
 
 ### Requirement.txt contains:
--pandas
--numpy
--matplotlib
--seaborn
--scikit-learn
--tensorflow
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+- tensorflow
